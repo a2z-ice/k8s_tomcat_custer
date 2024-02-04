@@ -1,3 +1,7 @@
+# Redis tomcat example
+
+https://www.youtube.com/watch?v=0BiZL4suit8
+
 # K8S cluster Tomcat configuration and session replication
 This repository is used to document the configuration process for clustering with tomcat using k8s
 
